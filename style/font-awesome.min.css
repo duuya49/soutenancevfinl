@@ -1,0 +1,12 @@
+.fa {
+  -webkit-font-smoothing:antialiased;
+  display:inline-block;
+  font-family:FontAwesome;
+  font-size:inherit;
+  font-stretch:normal;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:normal;
+  line-height:1;
+  text-rendering:auto;
+}
